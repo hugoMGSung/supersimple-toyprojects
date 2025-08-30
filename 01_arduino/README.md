@@ -14,3 +14,5 @@
 
 ### 실행화면
 
+https://github.com/user-attachments/assets/6dc38702-cd67-41c6-a966-a20063090a80
+
