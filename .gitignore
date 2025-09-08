@@ -614,3 +614,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.pt
+06_data_analysis/data/한국전력공사_공동주택 전력·기상 융합데이터_2020.csv
+06_data_analysis/data/한국전력공사_공동주택 전력·기상 융합데이터_2021.csv
+06_data_analysis/data/한국전력공사_공동주택 전력·기상 융합데이터_2022.csv
